@@ -1,0 +1,39 @@
+<resources>
+
+    <string name="cannonballRadius">w / 18</string>
+    <string name="cannonballSpeed">w * 3 / 2</string>
+    <string name="lineWidth">w / 18</string>
+    <string name="blockerPaint.setColor">Color.GREEN</string>
+    <string name="blockerTwoPaint.setColor">Color.MAGENTA</string>
+    <string name="blockerDistance">w * 4 / 8</string>
+    <string name="blockerBeginning">h / 8</string>
+    <string name="blockerEnd">h * 3 / 8</string>
+    <string name="blockerTwoDistance">w * 6 / 8</string>
+    <string name="blockerTwoBeginning">h / 7 </string>
+    <string name="blockerTwoEnd">h * 3 / 7 </string>
+    <string name="initialBlockerVelocity">h / 3</string>
+    <string name="initialBlockerTwoVelocity">0</string>
+    <string name="blocker.start">blockerDistance, blockerBeginning</string>
+    <string name="blocker.end">blockerDistance, blockerEnd</string>
+    <string name="blockerTwo.start">blockerTwoDistance, blockerTwoBeginning</string>
+    <string name="blockerTwo.end">blockerTwoDistance, blockerTwoEnd</string>
+    <string name="targetDistance">w * 7 / 8</string>
+    <string name="targetBeginning">h * 1 / 8</string>
+    <string name="targetEnd">h * 7 / 8</string>
+    <string name="pieceLength">(targetEnd - targetBeginning) / TARGET_PIECES</string>
+    <string name="initialTargetVelocity">-h / 4</string>
+    <string name="target.start">targetDistance, targetBeginning</string>
+    <string name="target.end">targetDistance, targetEnd</string>
+    <string name="barrelEnd">cannonLength, h / 2</string>
+    <string name="textPaint.setTextSize">w / 10</string>
+    <string name="textPaint.setAntiAlias">true</string>
+    <string name="textPaint.setColor">Color.WHITE</string>
+    <string name="cannonPaint.setStrokeWidth">lineWidth * 2.5f</string>
+    <string name="cannonPaint.setColor">Color.BLUE</string>
+    <string name="blockerPaint.setStrokeWidth">lineWidth</string>
+    <string name="blockerTwoPaint.setStrokeWidth">lineWidth</string>
+    <string name="targetPaint.setStrokeWidth">lineWidth</string>
+    <string name="backgroundPaint.setColor">Color.BLACK</string>
+    <string name="cannonballPaint.setColor">Color.WHITE</string>
+
+</resources>

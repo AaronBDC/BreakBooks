@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/item_pause"
+        android:title="@string/pause">
+    </item>
+    <item
+        android:id="@+id/item_resume"
+        android:title="@string/resume">
+    </item>
+    <item
+        android:id="@+id/item_prefs"
+        android:title="@string/cannonstart">
+    </item>
+    <item
+        android:id="@+id/item_email"
+        android:title="@string/send_email">
+    </item>
+    <item
+        android:id="@+id/item_review"
+        android:title="@string/item_review">
+    </item>
+    <item
+        android:id="@+id/item_blog"
+        android:title="@string/blog">
+    </item>
+    <item
+        android:id="@+id/item_depot"
+        android:title="@string/depot">
+    </item>
+
+    <group android:id="@+id/group_social" >
+        <item
+            android:id="@+id/item_twitter"
+            android:title="@string/twitter">
+        </item>
+        <item
+            android:id="@+id/item_facebook"
+            android:title="@string/facebook">
+        </item>
+    </group>
+    <item android:id="@+id/item_stop_sound" android:title="@string/mute"></item>
+    <item android:id="@+id/item_start_sound" android:title="@string/unmute"></item>
+
+</menu>

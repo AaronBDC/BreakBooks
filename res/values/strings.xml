@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string name="app_name">Break Books</string>
+   <string name="results_format">
+      Chapters Hit: %1$d\nShots Fired: %2$s\nTotal Time: %3$.1f</string>
+   <string name="reset_game">Continue</string>
+   <string name="win">W I N N E R !</string>
+   <string name="lose">f a i l u r e</string>
+   <string name="time_remaining_format">
+%.1f</string>
+
+       <string-array name="difficultyNames">
+        <item >Easy</item>
+        <item >Medium</item>
+        <item >Hard</item>
+        <item >Insane</item>
+    </string-array>
+    <string-array name="difficultyValues">
+        <item >10</item>
+        <item >20</item>
+        <item >45</item>
+        <item >75</item>
+        </string-array>
+    <string name="scoreboard">Hi Scores</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="cannonstart">Start Game</string>
+    <string name="menu_settings">Menu Settings</string>
+    <string name="sound_off">Sound OFF</string>
+    <string name="sound_on">Sound ON</string>
+    <string name="preferences">Preferences</string>
+    <string name="greenblocks">Green Blockers</string>
+    <string name="thetarget">The Target</string>
+    <string name="boosterblock_one">Red Ball (fast + small)</string>
+    <string name="boosterblock_two">Yellow Ball (slow + big)</string>
+    <string name="instructions">Double-tap anywhere on the screen to fire a cannon!</string>
+    <string name="next_level">Next</string>
+    <string name="ghost">ghost screen</string>
+    <string name="how">How to Play</string>
+    <string name="send_email">Email Developer</string>
+    <string name="item_review">Rate</string>
+    <string name="stage_one">Animal Farm</string>
+    <string name="stage_two">Book of Dragons</string>
+    <string name="stage_three">Cow Puncher</string>
+    <string name="facebook">on Facebook</string>
+    <string name="twitter">on Twitter</string>
+    <string name="depot">Depot</string>
+    <string name="blog">Developer Blog</string>
+    <string name="pause">Pause Game</string>
+    <string name="resume">Resume</string>
+    <string name="Mute"></string>
+    <string name="unmute">Unmute</string>
+    <string name="mute">Mute</string>
+</resources>

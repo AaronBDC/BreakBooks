@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="my_blue">#c00f</color>
+    <color name="my_red">#c33</color>
+    <color name="my_black">#000</color>
+    <color name="ic_dark_blue">#0099CC</color>
+    <color name="ic_dark_purple">#9933CC</color>
+    <color name="ic_dark_green">#669900</color>
+    <color name="ic_dark_orange">#FF8800</color>
+    <color name="ic_dark_red">#CC0000</color>
+    <color name="ic_lite_blue">#33B5E5</color>
+    <color name="ic_lite_purple">#AA66CC</color>
+    <color name="ic_lite_green">#99CC00</color>
+    <color name="ic_lite_orange">#FFBB33</color>
+    <color name="ic_lite_red">#FF4444</color>
+    
+</resources>
